@@ -722,6 +722,7 @@
     .service-card-wrapper {
       padding: 0;
       display: none;
+      /* border: 1px solid green !important; */
     }
     .service-card-img {
       object-fit: cover;
